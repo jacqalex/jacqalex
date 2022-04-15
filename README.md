@@ -20,7 +20,7 @@ My experience programming languages:
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://freepngimg.com/thumb/python_logo/5-2-python-logo-png-image-thumb.png"/>
+  <img scr= "https://ih1.redbubble.net/image.1091990386.7067/ur,pin_small_front,square,100x100.jpg"/>
 </p>
 
 Frameworks and Libraries:
