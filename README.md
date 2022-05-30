@@ -20,6 +20,7 @@ My experience programming languages:
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://freesvg.org/img/387.png" />
   <img scr= ""/>
 </p>
 
@@ -30,6 +31,8 @@ Frameworks and Libraries:
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://ih1.redbubble.net/image.1952945198.6602/st,small,507x507-pad,600x600,f8f8f8.jpg" />
+ 
   
 </p>
 
